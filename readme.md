@@ -35,4 +35,4 @@ This Python script extracts `.apk` file names and links from a Telegram channel 
    channel_username = 'your_channel_username'  # Replace with the Telegram channel username  
 3. **Run the script:**  
    ```sh
-   python script.py
+   python zare.py
