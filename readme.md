@@ -31,3 +31,6 @@ This Python script extracts `.apk` file names and links from a Telegram channel 
    api_id = 1234567  # Replace with your API ID
    api_hash = 'your_api_hash_here'  # Replace with your API Hash
    channel_username = 'your_channel_username'  # Replace with the Telegram channel username  
+3. **Run the script:**  
+   ```sh
+   python script.py
