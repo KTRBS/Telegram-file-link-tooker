@@ -1,3 +1,5 @@
+## this is ktr devock tool
+
 # **Telegram Channel File Extractor**  
 
 This Python script extracts `.apk` file names and links from a Telegram channel and saves them in a text file (`file_links.txt`).  
